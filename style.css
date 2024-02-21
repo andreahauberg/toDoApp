@@ -21,7 +21,7 @@
     flex-wrap: wrap;
     background: var(--body-background) ;
     padding: 10px;
-    gap: 1em;
+    gap: 0.5em;
 }
 
 .todoApp, .todoFinished{
